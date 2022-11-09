@@ -13,8 +13,4 @@ let heights = [4,4,4,1,3],
 
 countTheTallest(heights)
 
-
-
-heights.filter(function name(params) {
-    
-})
+// ########################
